@@ -108,7 +108,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([39.2358829, 20.5306762])
   .addTo(map)
-  .bindPopup('Ιερός Ναός Αγίου Δημητρίου, Καλιράχη')
+  .bindPopup('Ιερός Ναός Αγίου Ιωάννη Προδρόμου, Μεσοπόταμος')
   
 
 
@@ -120,5 +120,5 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 L.marker([39.2315395, 20.6158042])
   .addTo(emap)
-  .bindPopup('Το παλαιό Κλίσμα')
+  .bindPopup('Πάνθεον')
   
